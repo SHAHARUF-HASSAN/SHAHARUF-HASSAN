@@ -7,10 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharuf-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="shaharuf-hassan" /> </p>
 
 <p align="left">
-  I'm a final year Bachelor of Business Administration (BBA) student at International Islamic University Chittagong (IIUC). I have a strong interest in Cyber Security alongside my business studies, and I'm actively involved in university clubs.
+  I'm a final year student of BBA in Management Information System(MIS) at International Islamic University Chittagong (IIUC). I have a strong interest in Cyber Security alongside my business studies, and I'm actively involved in university clubs.
 </p>
 
-- 🌱 Currently exploring **Cyber Security, Ethical Hacking, and Network Security**
+- 🌱 Currently exploring **Data Analytics, Python, and SQL**
 - 💬 Ask me about **Finance, Marketing, IT, Cyber Security**
 - 📫 How to reach me **shaharufhassan444@gmail.com**
 - 👥 Active member of **IIUC Cyber Security Club** and **IIUC Business Club**
